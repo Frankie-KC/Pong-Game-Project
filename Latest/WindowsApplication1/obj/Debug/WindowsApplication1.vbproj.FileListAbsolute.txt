@@ -1,0 +1,82 @@
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\frankie cleary\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Frankie Cleary\Desktop\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Frankie Cleary\Desktop\Working power ups\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+F:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+E:\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Memory stick\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Memory stick\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Memory stick\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Memory stick\Project\Latest\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Memory stick\Project\Latest\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
